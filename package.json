@@ -1,7 +1,7 @@
 {
   "name": "frontend",
   "version": "0.1.0",
-  "homepage": "https://eduardodarocha.github.io/jornada-fullstack-ocean-08-22-frontend/",
+  "homepage": "https://eduardodarocha.github.io/jornada-ocean-frontend/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
