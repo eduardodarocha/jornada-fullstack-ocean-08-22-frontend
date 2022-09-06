@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/jornada-fullstack-ocean-08-22-frontend/static/css/main.5a0df30b.css",
-    "main.js": "/jornada-fullstack-ocean-08-22-frontend/static/js/main.0825fda5.js",
-    "static/js/787.cda612ba.chunk.js": "/jornada-fullstack-ocean-08-22-frontend/static/js/787.cda612ba.chunk.js",
-    "static/media/clouds.png": "/jornada-fullstack-ocean-08-22-frontend/static/media/clouds.75dca5d17ef0cc0eb68a.png",
-    "static/media/game-over.png": "/jornada-fullstack-ocean-08-22-frontend/static/media/game-over.71e85cc5a9d40e6679e1.png",
-    "static/media/mario.gif": "/jornada-fullstack-ocean-08-22-frontend/static/media/mario.b481b80877cb6f0c66ad.gif",
-    "index.html": "/jornada-fullstack-ocean-08-22-frontend/index.html",
-    "main.5a0df30b.css.map": "/jornada-fullstack-ocean-08-22-frontend/static/css/main.5a0df30b.css.map",
-    "main.0825fda5.js.map": "/jornada-fullstack-ocean-08-22-frontend/static/js/main.0825fda5.js.map",
-    "787.cda612ba.chunk.js.map": "/jornada-fullstack-ocean-08-22-frontend/static/js/787.cda612ba.chunk.js.map"
+    "main.css": "/jornada-ocean-frontend/static/css/main.5a0df30b.css",
+    "main.js": "/jornada-ocean-frontend/static/js/main.6cd8f484.js",
+    "static/js/787.cda612ba.chunk.js": "/jornada-ocean-frontend/static/js/787.cda612ba.chunk.js",
+    "static/media/clouds.png": "/jornada-ocean-frontend/static/media/clouds.75dca5d17ef0cc0eb68a.png",
+    "static/media/game-over.png": "/jornada-ocean-frontend/static/media/game-over.71e85cc5a9d40e6679e1.png",
+    "static/media/mario.gif": "/jornada-ocean-frontend/static/media/mario.b481b80877cb6f0c66ad.gif",
+    "index.html": "/jornada-ocean-frontend/index.html",
+    "main.5a0df30b.css.map": "/jornada-ocean-frontend/static/css/main.5a0df30b.css.map",
+    "main.6cd8f484.js.map": "/jornada-ocean-frontend/static/js/main.6cd8f484.js.map",
+    "787.cda612ba.chunk.js.map": "/jornada-ocean-frontend/static/js/787.cda612ba.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5a0df30b.css",
-    "static/js/main.0825fda5.js"
+    "static/js/main.6cd8f484.js"
   ]
 }
